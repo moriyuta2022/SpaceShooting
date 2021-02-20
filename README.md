@@ -26,7 +26,9 @@ Escキー
  -ポーズメニュー
 
 
+
 【English translation】
+
 [Summary explanation]
 It is a 2D shooting game.
 Use barriers and shooting to shoot down all enemies.
