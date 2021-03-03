@@ -1,5 +1,12 @@
-# literate-dollop
+# Space_shooting
 First step!
+
+【遊び方】
+以下のファイルをダウンロードしてください。
+teki.jpg
+jiki.jpg
+SpaceShooting.java
+ダウンロード後、Javaファイルをコンパイルし起動してください。
 
 【概要説明】
 2Dシューティングゲームです。
@@ -28,6 +35,13 @@ Escキー
 
 
 【English translation】
+
+[how to play]
+Please download the following file.
+teki.jpg
+jiki.jpg
+SpaceShooting.java
+After downloading, compile the Java file and start it.
 
 [Summary explanation]
 It is a 2D shooting game.
